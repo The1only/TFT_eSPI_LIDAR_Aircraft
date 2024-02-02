@@ -1,13 +1,13 @@
 # TFT_eSPI_LIDAR_Aircraft
 
-150US$ Laser Altitude Indicator forSportsplanes...
+150US$ Laser Altitude Indicator for Sportsplanes...
 
 **********************************************************************************
 * Laser Altitude Indicator v1.0
 * By Terje Nilsen, 2024
 *
-* This project uses a lo-cost SEEED Rp2040 board (7,-USd), with a SEEED sircualr coulor display (20,-USd), and a Garmin v3 LIDAR (120,-USd)
-* (Total cost 150USd total + 3D printed box or something).
+* This project uses a low-cost SEEED Rp2040 board (7,-US$), with a SEEED sircualr coulor display (20,-US$), and a Garmin v3 LIDAR (120,-US$)
+* **(Total cost 150US$ total + 3D printed box or something).**
 * You get RTC, LIDAR, SD-Card socket for logging, Touch screen, Colour Graphics, USB-Serial, IO pins for control or sensing etc. 
 *
 * It measures the actual AGL when close to ground, and can be used for lo-pass training etc. 
