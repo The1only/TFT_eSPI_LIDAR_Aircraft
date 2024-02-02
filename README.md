@@ -10,7 +10,7 @@
 * **(Total cost 150US$ total + 3D printed box or something).**
 * You get RTC, LIDAR, SD-Card socket for logging, Touch screen, Colour Graphics, USB-Serial, IO pins for control or sensing etc. 
 *
-* It measures the actual AGL when close to ground, and can be used for lo-pass training etc. 
+* It measures the actual AGL when close to ground, and can be used for low-pass training etc. 
 * In addition to the display output, it can be set to send the output over USB-Serial port to 
 * an external device, like Android phone etc.for logging or cool apps.
 * Many cool additions can be written, and as the touch-sceen works (even througth glass) one can have different screens by push.
